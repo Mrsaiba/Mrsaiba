@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Mrsaiba
+- 👋 Hi, I’m Jit Saiba
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on open source beginner friendly project
-- 📫 How to reach me ...
+- 📫 You can email me in Jitsaiba@gmail.com
+
 
 <!---
 Mrsaiba/Mrsaiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

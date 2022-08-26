@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Jit Saiba
+- 👋 Hi, I’m Shadow
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on open source beginner friendly project
-- 📫 You can email me in Jitsaiba@gmail.com
 
 
 <!---
